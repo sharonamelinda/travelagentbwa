@@ -10,4 +10,4 @@ This project is a static website created as part of the mini challenge for the B
 - Figma (ShaynaKit Template): The design inspiration was taken from one of the ShaynaKit Figma templates. (https://shaynakit.com/details/travelbucks-agent-website)
 
 ## Live Demo
-You can view the live version of the website here: [Live Demo]()
+You can view the live version of the website here: [Live Demo](https://travelagentbwa-cwwpdw5db-sharon-amelindas-projects.vercel.app/)
